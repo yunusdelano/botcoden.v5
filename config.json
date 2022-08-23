@@ -1,0 +1,22 @@
+{
+    "ownerNumber": "6285156443023@s.whatsapp.net",
+    "ownerName": "Yunus DTA",
+    "botName": "YPSTORE Bot",
+    "footer": "2022 © CODEN",
+    "sessionName": "CODEN-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "0aa84fc6aec9eefbae109b67",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "packname": "siapa yang bikin?",
+    "author": "@yunus_delano",
+    "playlist": [
+        "https://open.spotify.com/playlist/66E9wQae4ME7kNeFkGQUpl",
+        "https://open.spotify.com/playlist/3uml6rXP7L9UVVCKPbe7U4",
+        "https://open.spotify.com/playlist/37i9dQZF1DX86qIyFMUwi4"
+    ]
+}
