@@ -1,0 +1,16 @@
+{
+  "requestOptions": {},
+  "cheerioOptions": {
+    "normalizeWhitespace": true,
+    "xmlMode": false,
+    "lowerCaseTags": false
+  },
+  "itemOptions": {
+    "get": "text",
+    "required": false,
+    "unique": "auto",
+    "trim": true,
+    "prefix": "",
+    "suffix": ""
+  }
+}
